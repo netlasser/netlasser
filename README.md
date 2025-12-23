@@ -1,60 +1,58 @@
-# 👋 Hi, I'm netlasser!
+👋 Hey, I’m Biruke
 
-Welcome to my GitHub profile!  
-I'm a **Full-Stack Engineer** passionate about building robust, scalable applications and crafting engaging user experiences.
+I build complete, production-ready front-end web applications with a focus on clarity, performance, and long-term maintainability.
 
----
+Over the past several years, my work has centered on turning ideas into reliable user interfaces—collaborating with designers and back-end teams, shaping clean component architectures, and delivering front ends that hold up in real-world use.
 
-## 💻 Tech Stack
+🧠 What I Work With
 
-- **Front-end:**  
-  JavaScript | React.js | TypeScript | Vue.js | UI/UX Design
-- **Back-end:**  
-  Node.js | Express.js | Go
-- **Database:**  
-  PostgreSQL | Supabase | Firebase
+Front-End
 
----
+JavaScript (ES6+)
 
-## 🚀 Featured Project
+TypeScript
 
-### [Market Mosaic Online](https://github.com/netlasser/market-mosaic-online-30217.git)  
-A dynamic marketplace platform.  
-Check it out live: [market-mosaic-online](https://github.com/netlasser/market-mosaic-online-30217.git)
+React
 
----
+Next.js
 
-## 🌐 My Website
-Visit [lavencian.base44.app](https://lavencian.base44.app/#hero) to learn more about my work and projects.
+Tailwind CSS
 
----
+shadcn/ui
 
-## 🎬 More Than Code
+Front-End Engineering
 
-When I'm not coding, you'll find me behind a camera—**filmmaking** is my creative passion.
+Component-driven architecture
 
----
+Responsive & accessible UI
 
-<!-- Social links (add more if you want) -->
-<!-- [LinkedIn](#) | [Twitter](#) -->
+Performance optimization
 
----
+API integration
 
-Thanks for stopping by!  
-Feel free to reach out or connect—let's build something amazing together.
-## Hi there 👋
+Cross-browser compatibility
 
-<!--
-**netlasser/netlasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧩 Selected Work
 
-Here are some ideas to get you started:
+I focus on building real applications rather than isolated demos. My recent work includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Healthcare-focused interfaces emphasizing usability and accessibility
+
+E-commerce style front ends with complete user flows
+
+Dashboard and information-driven layouts built for clarity and scale
+
+Client-facing applications where I owned the full front-end implementation
+
+Live examples are available on my website.
+
+🌐 Portfolio
+
+https://bzportal.vercel.app/
+
+🎥 Outside of Code
+
+Outside of development, I enjoy filmmaking and visual storytelling—skills that strongly influence how I think about user experience, layout, and interaction.
+
+Thanks for stopping by.
+If you’re interested in front-end work that’s thoughtful, reliable, and built to last, feel free to explore my projects or reach out.

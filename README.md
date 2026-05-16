@@ -1,58 +1,59 @@
-👋 Hey, I’m Biruke
+# 👋 Hey, I’m Biruke
 
-I build complete, production-ready front-end web applications with a focus on clarity, performance, and long-term maintainability.
+I build intelligent, production-ready digital products at the intersection of front-end engineering, AI automation, and modern software systems.
 
-Over the past several years, my work has centered on turning ideas into reliable user interfaces—collaborating with designers and back-end teams, shaping clean component architectures, and delivering front ends that hold up in real-world use.
+My background started in front-end development—crafting scalable interfaces, building reliable user experiences, and turning complex ideas into clean, maintainable applications. Today, my work has expanded into AI automation engineering, where I design systems that combine modern UI development with AI-driven workflows, automation pipelines, and practical business solutions.
 
-🧠 What I Work With
+## 🧠 What I Work With
 
-Front-End
+### Front-End Engineering
 
-JavaScript (ES6+)
+* JavaScript (ES6+)
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* shadcn/ui
+* Responsive & accessible UI
+* Component-driven architecture
+* Performance optimization
+* API integration
+* Cross-browser compatibility
 
-TypeScript
+### AI Automation & Engineering
 
-React
+* AI workflow automation
+* LLM integrations
+* AI-powered web applications
+* Process automation systems
+* API orchestration
+* Automation architecture
+* Prompt engineering
+* AI-assisted productivity tools
+* Scalable system design
 
-Next.js
+## 🧩 Selected Work
 
-Tailwind CSS
+I focus on building practical, production-oriented systems rather than isolated demos.
 
-shadcn/ui
+My recent work includes:
 
-Front-End Engineering
+* Healthcare-focused platforms emphasizing usability and accessibility
+* E-commerce front ends with complete customer workflows
+* Dashboard systems designed for clarity, scale, and data visibility
+* AI-powered automation solutions that streamline repetitive workflows
+* Client-facing applications where I owned both engineering direction and implementation
 
-Component-driven architecture
+Live examples are available on my portfolio.
 
-Responsive & accessible UI
+## 🌐 Portfolio
 
-Performance optimization
+[https://bzportal.vercel.app/](https://bzportal.vercel.app/)
 
-API integration
+## 🎥 Outside of Code
 
-Cross-browser compatibility
-
-🧩 Selected Work
-
-I focus on building real applications rather than isolated demos. My recent work includes:
-
-Healthcare-focused interfaces emphasizing usability and accessibility
-
-E-commerce style front ends with complete user flows
-
-Dashboard and information-driven layouts built for clarity and scale
-
-Client-facing applications where I owned the full front-end implementation
-
-Live examples are available on my website.
-
-🌐 Portfolio
-
-https://bzportal.vercel.app/
-
-🎥 Outside of Code
-
-Outside of development, I enjoy filmmaking and visual storytelling—skills that strongly influence how I think about user experience, layout, and interaction.
+Outside of engineering, I enjoy filmmaking and visual storytelling—interests that strongly influence how I think about user experience, interaction, pacing, and design clarity.
 
 Thanks for stopping by.
-If you’re interested in front-end work that’s thoughtful, reliable, and built to last, feel free to explore my projects or reach out.
+
+If you’re interested in thoughtful engineering, AI automation, or scalable modern web applications, feel free to explore my projects or reach out.

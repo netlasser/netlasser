@@ -56,6 +56,8 @@ Live examples are available on my portfolio.
 
 ## 🌐 Portfolio
 
+https://lavencianco.vercel.app/
+
 [https://bzportal.vercel.app/](https://bzportal.vercel.app/)
 
 ## 🎥 Outside of Code

@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Biruke
 
-I build intelligent, production-ready digital products at the intersection of front-end engineering, AI automation, and modern software systems.
+I build intelligent, production-ready digital products at the intersection of full-stack engineering, AI automation, and modern software systems.
 
 My background started in front-end development—crafting scalable interfaces, building reliable user experiences, and turning complex ideas into clean, maintainable applications. Today, my work has expanded into AI automation engineering, where I design systems that combine modern UI development with AI-driven workflows, automation pipelines, and practical business solutions.
 
@@ -19,6 +19,14 @@ My background started in front-end development—crafting scalable interfaces, b
 * Performance optimization
 * API integration
 * Cross-browser compatibility
+
+### Back-End Engineering
+
+  * Node.js / Express.js
+  * REST API design
+  * Authentication & middleware
+  * Database design (PostgreSQL, Supabase)
+  * Serverless and modular backend architecture
 
 ### AI Automation & Engineering
 
